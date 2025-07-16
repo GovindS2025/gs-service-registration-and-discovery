@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: Logistic-Team
+server:
+  port: 8081
